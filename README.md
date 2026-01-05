@@ -1,22 +1,22 @@
-# card-linked-offer-analytics
+# Card-linked-offer-analytics
 End-to-end analysis of card-linked offers using SQL, Python, and Power BI to evaluate redemption, uplift, and campaign optimization opportunities.
 # Card-Linked Offer Performance Analytics
 
-## 📌 Project Overview
+## Project Overview
 This project evaluates the effectiveness of card-linked offers by analyzing transaction behavior, redemption patterns, and spend uplift. The objective is to identify high-performing customer segments, merchants, and geographies to support data-driven campaign optimization.
 
-## 🧰 Tools & Technologies
+## Tools & Technologies
 - SQL (MySQL) – data extraction & aggregation
 - Python (Pandas, Matplotlib) – analysis & validation
 - Power BI – interactive dashboards & storytelling
 
-## 📊 Key Business Questions
+## Key Business Questions
 - Do offers increase transaction value?
 - Which customer segments redeem offers the most?
 - Which merchants and cities perform best?
 - How should future campaigns be optimized?
 
-## 🔍 Analysis Workflow
+## Analysis Workflow
 1. **SQL** – Cleaned and aggregated transaction data, calculated redemption rates and average spend
 2. **Python** – Validated metrics, analyzed segment & city-level performance
 3. **Power BI** – Built executive dashboards with insights and recommendations
@@ -32,17 +32,17 @@ This project evaluates the effectiveness of card-linked offers by analyzing tran
 ### Page 3 – Strategy & Recommendations
 ![Page 3](images/page3_strategy.png)
 
-## 💡 Key Insights
+## Key Insights
 - Offers drive measurable uplift in average transaction value
 - Redemption behavior varies by customer segment and city
 - A small group of merchants consistently outperform others
 
-## 🎯 Recommendations
+## Recommendations
 - Prioritize high-response customer segments and cities
 - Focus investment on top-performing merchants
 - Choose offer types based on cost efficiency, as spend impact is consistent
 
-## 🚀 Future Enhancements
+## Future Enhancements
 - A/B testing framework for offer types
 - Time-series analysis of campaign performance
 - Predictive modeling for redemption likelihood
